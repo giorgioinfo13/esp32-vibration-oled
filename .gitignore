@@ -1,0 +1,19 @@
+.pio/
+
+# Local editor settings
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# Local configuration and secrets
+include/config.h
+*.secret
+*.secrets
+*.local
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
